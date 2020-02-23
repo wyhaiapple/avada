@@ -1,0 +1,11 @@
+百度出来的东西没有一个有用的
+
+终极解决方案：
+
+1、将extension=curl前的分号去掉；
+
+2、将php目录下的libssh2.dll放到apache安装目录的bin目录下
+
+3、重启apache
+
+ok，完美解决
